@@ -2,9 +2,9 @@
 
 A collection of Python implementations for fundamental bioinformatics sequence analysis problems from Rosalind. This repository contains solutions for calculating various sequence distance metrics and alignment-related computations.
 
---
+
 ## 🧬 Algorithms Implemented
---
+
 ### 1. Hamming Distance (`hamming_distance.py`)
 Calculates the number of point mutations between two equal-length DNA sequences.
 - **Problem**: [ROSALIND - HAMM](https://rosalind.info/problems/hamm/)
